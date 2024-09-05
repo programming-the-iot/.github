@@ -8,7 +8,7 @@ to the basics of building an integrated, end-to-end IoT solution – from device
 the technical complexities of a typical IoT ecosystem.
 
 ## Exercises Kanban Board
-- [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/4)
+- [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/5)
 
 ## Links
 - **O'Reilly:** https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/
