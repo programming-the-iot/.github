@@ -4,7 +4,7 @@ By Andy King
 
 ## IMPORTANT NOTE REGARDING BOOK LINKS and KANBAN BOARD
 
-The original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) links have been auto-migrated to GitHub's new project board, and you may find some of the previous links to the original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) are now defunct. Please use the NEW link below:
+The original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) web site has been auto-migrated to GitHub's new project board, which is now at a new URL. You may find some of the previous links to the original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) are now defunct. Please use the NEW link below:
 
 https://github.com/orgs/programming-the-iot/projects/5
 
