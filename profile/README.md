@@ -2,6 +2,14 @@
 
 By Andy King
 
+## IMPORTANT NOTE REGARDING BOOK LINKS and KANBAN BOARD
+
+The original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) links have been auto-migrated to GitHub's new project board, and you may find some of the previous links to the original [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5) are now defunct. Please use the NEW link below:
+
+https://github.com/orgs/programming-the-iot/projects/5
+
+## About the Book
+
 [Programming the Internet of Things (O’Reilly Media)](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/) introduces you
 to the basics of building an integrated, end-to-end IoT solution – from device to cloud. Originally written to support my Connected Devices course at Northeastern University,
 [Programming the IoT](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/) will help developers and technology executives alike better understand
