@@ -31,6 +31,7 @@ the technical complexities of a typical IoT ecosystem.
 
 ## 📋 Quick Start
 **Main Course Board:** [Kanban Board](https://github.com/orgs/programming-the-iot/projects/5)
+
 **Book Companion:** [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/)
 
 ---
